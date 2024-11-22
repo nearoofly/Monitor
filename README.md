@@ -70,4 +70,4 @@ Attention
 
 Licence
 
-Ce projet est sous licence . Vous êtes libre de l’utiliser, de le modifier et de le redistribuer sous certaines conditions.
+Ce projet est sous licence Apache License 2.0. Vous êtes libre de l’utiliser, de le modifier et de le redistribuer sous certaines conditions.
