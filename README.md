@@ -2,6 +2,8 @@
 
 Monitor est un script Bash simple permettant de surveiller et d’enregistrer les connexions réseau vers ou depuis une adresse IP spécifique ou un site web (ex. example.com). Il utilise tcpdump, un outil d’analyse réseau, pour capturer les paquets et enregistre les résultats dans un fichier.
 
+## nslookup example.com
+     ---------------
 Fonctionnalités
 
 	•	Surveille les connexions réseau vers une adresse IP cible ou un site web.
